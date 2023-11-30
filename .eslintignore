@@ -1,0 +1,5 @@
+lib/
+
+.eslintrc.js
+jest.config.js
+rollup.config.js
